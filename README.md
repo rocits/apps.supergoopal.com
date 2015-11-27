@@ -1,7 +1,7 @@
-supergoopal
+SuperGoopal Apps - Super Cloud Systems
 ===========
 
-supergoopal apps - super cloud systems
+SuperGoopal Apps - Super Cloud Systems
 
 http://apps.supergoopal.com
 
